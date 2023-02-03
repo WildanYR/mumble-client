@@ -1,9 +1,9 @@
 import mumbleStreams from 'mumble-streams'
-import duplexer from 'reduplexer'
-import { EventEmitter } from 'events'
-import through2 from 'through2'
-import Promise from 'promise'
-import DropStream from 'drop-stream'
+import duplexer from "./duplexer.js";
+import { EventEmitter } from "events";
+import through2 from "./through2.js";
+import Promise from "promise";
+import DropStream from "./dropstream.js";
 import { getOSName, getOSVersion } from './utils.js'
 import User from './user'
 import Channel from './channel'

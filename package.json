@@ -30,13 +30,12 @@
     "standard": "^8.0.0"
   },
   "dependencies": {
-    "drop-stream": "^0.1.1",
     "mumble-streams": "github:johni0702/mumble-streams#47b84d1",
-    "promise": "^7.1.1",
-    "reduplexer": "^1.1.0",
+    "promise": "^8.3.0",
+    "readable-stream": "^4.3.0",
+    "inherits": "^2.0.4",
     "remove-value": "^1.0.0",
     "rtimer": "^0.1.0",
-    "stats-incremental": "^1.2.1",
-    "through2": "^2.0.2"
+    "stats-incremental": "^1.2.1"
   }
 }
