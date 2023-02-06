@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UndeRus/mumble-client.git"
+    "url": "git+https://github.com/WildanYR/mumble-client.git"
   },
   "author": "Jonas Herzig <me@johni0702.de>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/UndeRus/mumble-client/issues"
+    "url": "https://github.com/WildanYR/mumble-client/issues"
   },
-  "homepage": "https://github.com/UndeRus/mumble-client#readme",
+  "homepage": "https://github.com/WildanYR/mumble-client#readme",
   "files": [
     "index.js",
     "src"
