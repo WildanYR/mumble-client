@@ -1,5 +1,5 @@
 import { EventEmitter } from 'events'
-import DropStream from 'drop-stream'
+import DropStream from "./dropstream";
 import removeValue from 'remove-value'
 import Timer from 'rtimer'
 
